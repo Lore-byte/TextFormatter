@@ -93,6 +93,7 @@ namespace formatter
             // 
             // frmMain
             // 
+            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(416, 390);
             this.Controls.Add(this.txtOutput);
             this.Controls.Add(this.checkBox1);
